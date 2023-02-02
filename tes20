@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <details>
+    <summary>
+    曲線
+    </summary>
+    <details>
+    <summary>
+    正則曲線
+    </summary>
+    <li>長さ</li>
+    <li>パラメータの取り替え</li>
+    <li>閉曲線</li>
+    <li>回転数</li>
+    <details>
+        <summary>
+        弧長パラメータ
+        </summary>
+        <details>
+            <summary>
+                単位接ベクトル
+            </summary>
+            <details>
+               <summary>単位法ベクトル</summary> 
+            <li>動標溝</li>
+            <details>
+            <summary>曲率</summary>
+            <details>
+                <summary>頂点</summary>
+            <details>
+                <summary>
+                    曲率半径<br>
+                    曲率中心
+                </summary>
+                <li>曲率円</li>
+            </details>
+
+
+
+
+
+
+
+            
+        </details>
+    </details>
+    </details>
+
+    </details>
+    </deails>
+
+    
+    
+</body>
+</html>
